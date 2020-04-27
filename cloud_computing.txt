@@ -1,0 +1,10 @@
+what is cloud computing?
+The cloud computing is storing and accessing data and programs over the internet
+
+
+The features of cloud computing?
+1.Resource pooling
+2.Pay as you go
+3.Availability
+4.Easy maintenance
+5.On demand self service
